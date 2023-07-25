@@ -32,7 +32,7 @@
                 
                 <a href="profile.php" class="nav-item nav-link">Profile</a>
                 <a href="contactUS.php" class="nav-item nav-link">ContactUs</a>
-                <!-- mailto:premkumar1215225@gmail.com -->
+               
             </div>
             <div class="navbar-nav ml-auto">
                 <a href="../admin/logout.php" class="nav-item nav-link">AdminPage</a>
